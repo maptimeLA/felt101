@@ -4,7 +4,7 @@ This tutorial guides how to build a map of destinations for CicLAvia and many ev
 
 Like this map for example: [CicLAvia Map of Destinations](https://felt.com/map/CicLAvia-Map-of-Destinations-Ro4h9AvPITXOWALC8gpjWyD?loc=34.049461,-118.247992,15.69z&share=1)
 
-![alt text](https://raw.githubusercontent.com/maptimeLA/git_your_map_here/master/images/gityourmaps.jpg "Cover")
+[![alt text](https://raw.githubusercontent.com/maptimeLA/git_your_map_here/master/images/gityourmaps.jpg "Cover")](https://raw.githubusercontent.com/maptimeLA/felt101/main/cover_image.png)
 
 ## Let's sign up for an account
 
