@@ -1,0 +1,1273 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-09-28T23:17:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6363655",
+        "addr:state": "CA",
+        "building": "yes",
+        "ele": "100.6",
+        "height": "18.5",
+        "lacounty:ain": "5161012904",
+        "lacounty:bld_id": "489432840621",
+        "name": "Japanese American National Museum",
+        "tourism": "museum",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2384901,
+              34.0492153
+            ],
+            [
+              -118.2383442,
+              34.0491838
+            ],
+            [
+              -118.2383261,
+              34.049239
+            ],
+            [
+              -118.2383093,
+              34.0492351
+            ],
+            [
+              -118.238294,
+              34.0492817
+            ],
+            [
+              -118.2383304,
+              34.04929
+            ],
+            [
+              -118.2383071,
+              34.0493608
+            ],
+            [
+              -118.2382884,
+              34.04938
+            ],
+            [
+              -118.2382971,
+              34.0493894
+            ],
+            [
+              -118.2382818,
+              34.0493992
+            ],
+            [
+              -118.2382958,
+              34.0494032
+            ],
+            [
+              -118.2382839,
+              34.0494425
+            ],
+            [
+              -118.2382787,
+              34.0494422
+            ],
+            [
+              -118.2382642,
+              34.0498584
+            ],
+            [
+              -118.2382674,
+              34.049859
+            ],
+            [
+              -118.2382649,
+              34.0498671
+            ],
+            [
+              -118.2383052,
+              34.0498758
+            ],
+            [
+              -118.2382803,
+              34.0499557
+            ],
+            [
+              -118.2385212,
+              34.0500077
+            ],
+            [
+              -118.2385127,
+              34.0500351
+            ],
+            [
+              -118.238609,
+              34.0500559
+            ],
+            [
+              -118.2386173,
+              34.0500294
+            ],
+            [
+              -118.2388399,
+              34.0500774
+            ],
+            [
+              -118.2388613,
+              34.0500064
+            ],
+            [
+              -118.23892,
+              34.04982
+            ],
+            [
+              -118.2389302,
+              34.049822
+            ],
+            [
+              -118.2389302,
+              34.0498093
+            ],
+            [
+              -118.2389044,
+              34.049789
+            ],
+            [
+              -118.2389096,
+              34.0497773
+            ],
+            [
+              -118.2389353,
+              34.0497842
+            ],
+            [
+              -118.2389435,
+              34.0497632
+            ],
+            [
+              -118.2389546,
+              34.0497158
+            ],
+            [
+              -118.2389573,
+              34.0496602
+            ],
+            [
+              -118.2389552,
+              34.0496353
+            ],
+            [
+              -118.2389472,
+              34.0495912
+            ],
+            [
+              -118.23894,
+              34.0495686
+            ],
+            [
+              -118.2389325,
+              34.0495473
+            ],
+            [
+              -118.2389192,
+              34.0495207
+            ],
+            [
+              -118.2389028,
+              34.0494949
+            ],
+            [
+              -118.2388851,
+              34.0494706
+            ],
+            [
+              -118.2388706,
+              34.0494536
+            ],
+            [
+              -118.2388788,
+              34.049412
+            ],
+            [
+              -118.2388941,
+              34.0494095
+            ],
+            [
+              -118.2389045,
+              34.0494051
+            ],
+            [
+              -118.2389133,
+              34.0494001
+            ],
+            [
+              -118.2389214,
+              34.0493941
+            ],
+            [
+              -118.2389288,
+              34.0493857
+            ],
+            [
+              -118.2389336,
+              34.049377
+            ],
+            [
+              -118.2389383,
+              34.0493577
+            ],
+            [
+              -118.2389369,
+              34.0493466
+            ],
+            [
+              -118.2389335,
+              34.0493363
+            ],
+            [
+              -118.238928,
+              34.0493274
+            ],
+            [
+              -118.238915,
+              34.0493146
+            ],
+            [
+              -118.2388943,
+              34.0493045
+            ],
+            [
+              -118.2388814,
+              34.049302
+            ],
+            [
+              -118.2388669,
+              34.0493013
+            ],
+            [
+              -118.2388523,
+              34.049304
+            ],
+            [
+              -118.2388387,
+              34.0493092
+            ],
+            [
+              -118.2388085,
+              34.0492973
+            ],
+            [
+              -118.2387514,
+              34.0492781
+            ],
+            [
+              -118.2386957,
+              34.0492618
+            ],
+            [
+              -118.2386095,
+              34.0492431
+            ],
+            [
+              -118.2385383,
+              34.0492335
+            ],
+            [
+              -118.2384861,
+              34.0492289
+            ],
+            [
+              -118.2384901,
+              34.0492153
+            ]
+          ],
+          [
+            [
+              -118.2384613,
+              34.0493134
+            ],
+            [
+              -118.2384841,
+              34.0492359
+            ],
+            [
+              -118.2385161,
+              34.0492385
+            ],
+            [
+              -118.2385608,
+              34.0492437
+            ],
+            [
+              -118.23862,
+              34.049253
+            ],
+            [
+              -118.2386748,
+              34.0492643
+            ],
+            [
+              -118.238782,
+              34.0492953
+            ],
+            [
+              -118.2388295,
+              34.0493143
+            ],
+            [
+              -118.2388162,
+              34.0493245
+            ],
+            [
+              -118.2388096,
+              34.0493345
+            ],
+            [
+              -118.2388064,
+              34.0493413
+            ],
+            [
+              -118.2388051,
+              34.0493521
+            ],
+            [
+              -118.2388058,
+              34.0493631
+            ],
+            [
+              -118.2387864,
+              34.0493858
+            ],
+            [
+              -118.2387754,
+              34.0494009
+            ],
+            [
+              -118.2387714,
+              34.0493988
+            ],
+            [
+              -118.2387789,
+              34.0493888
+            ],
+            [
+              -118.2387562,
+              34.0493754
+            ],
+            [
+              -118.2387382,
+              34.0493658
+            ],
+            [
+              -118.2387151,
+              34.0493553
+            ],
+            [
+              -118.2386854,
+              34.0493438
+            ],
+            [
+              -118.2386648,
+              34.0493372
+            ],
+            [
+              -118.2386371,
+              34.0493305
+            ],
+            [
+              -118.238604,
+              34.0493244
+            ],
+            [
+              -118.2385715,
+              34.0493197
+            ],
+            [
+              -118.2385186,
+              34.0493181
+            ],
+            [
+              -118.2384914,
+              34.0493196
+            ],
+            [
+              -118.2384613,
+              34.0493134
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6363655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206463626",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "250",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "South Grand Avenue",
+        "building": "yes",
+        "ele": "137.1",
+        "fee": "no",
+        "gnis:county_name": "Los Angeles",
+        "gnis:feature_id": "1744903",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "height": "27.8",
+        "museum": "art",
+        "name": "Museum of Contemporary Art",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "website": "https://www.moca.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q1134646",
+        "wikipedia": "en:Museum of Contemporary Art, Los Angeles"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2510219,
+              34.0530208
+            ],
+            [
+              -118.25071,
+              34.052825
+            ],
+            [
+              -118.2504757,
+              34.0530811
+            ],
+            [
+              -118.2506402,
+              34.0531844
+            ],
+            [
+              -118.2505104,
+              34.0533262
+            ],
+            [
+              -118.250575,
+              34.0533668
+            ],
+            [
+              -118.250529,
+              34.0534171
+            ],
+            [
+              -118.2504735,
+              34.0534778
+            ],
+            [
+              -118.2503931,
+              34.0534273
+            ],
+            [
+              -118.2504258,
+              34.0533916
+            ],
+            [
+              -118.2502766,
+              34.053298
+            ],
+            [
+              -118.2500888,
+              34.0535035
+            ],
+            [
+              -118.2500371,
+              34.0535601
+            ],
+            [
+              -118.250314,
+              34.0537338
+            ],
+            [
+              -118.2503479,
+              34.0537551
+            ],
+            [
+              -118.2506104,
+              34.0534679
+            ],
+            [
+              -118.2506587,
+              34.0534151
+            ],
+            [
+              -118.2506114,
+              34.0533854
+            ],
+            [
+              -118.2507374,
+              34.0532476
+            ],
+            [
+              -118.2507863,
+              34.0532783
+            ],
+            [
+              -118.2510219,
+              34.0530208
+            ]
+          ]
+        ]
+      },
+      "id": "way/206463626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426254718",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "403",
+        "addr:postcode": "90057",
+        "addr:state": "CA",
+        "addr:street": "South Bonnie Brae Street",
+        "building": "house",
+        "building:units": "1",
+        "ele": "132.1",
+        "height": "12.6",
+        "lacounty:ain": "5154027007",
+        "lacounty:bld_id": "479566844703",
+        "name": "Grier-Musser Museum",
+        "start_date": "1898",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2710817,
+              34.0609866
+            ],
+            [
+              -118.2710294,
+              34.0609637
+            ],
+            [
+              -118.2709806,
+              34.0610348
+            ],
+            [
+              -118.2709795,
+              34.0610464
+            ],
+            [
+              -118.2709829,
+              34.0610523
+            ],
+            [
+              -118.2710902,
+              34.0610993
+            ],
+            [
+              -118.2710934,
+              34.0610943
+            ],
+            [
+              -118.2711148,
+              34.0611037
+            ],
+            [
+              -118.2711229,
+              34.0610908
+            ],
+            [
+              -118.2711528,
+              34.0611039
+            ],
+            [
+              -118.2711682,
+              34.0610795
+            ],
+            [
+              -118.2711759,
+              34.0610828
+            ],
+            [
+              -118.2711996,
+              34.0610454
+            ],
+            [
+              -118.2711296,
+              34.0610148
+            ],
+            [
+              -118.2711361,
+              34.0610046
+            ],
+            [
+              -118.2710846,
+              34.060982
+            ],
+            [
+              -118.2710817,
+              34.0609866
+            ]
+          ]
+        ]
+      },
+      "id": "way/426254718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427532197",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "221",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "South Grand Avenue",
+        "building": "yes",
+        "building:levels": "3",
+        "ele": "144.2",
+        "fee": "no",
+        "height": "27.4",
+        "lacounty:ain": "5123018033",
+        "lacounty:bld_id": "2014092961390000",
+        "museum": "art",
+        "name": "The Broad Museum",
+        "phone": "+1-213-232-6200",
+        "start_date": "2011",
+        "tourism": "museum",
+        "website": "https://thebroad.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q17060100",
+        "wikipedia": "en:The Broad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2505224,
+              34.0540863
+            ],
+            [
+              -118.2501472,
+              34.0545029
+            ],
+            [
+              -118.2506612,
+              34.054827
+            ],
+            [
+              -118.2510423,
+              34.0544139
+            ],
+            [
+              -118.2505224,
+              34.0540863
+            ]
+          ]
+        ]
+      },
+      "id": "way/427532197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427817500",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "152",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "Central Avenue",
+        "building": "yes",
+        "check_date": "2023-07-05",
+        "ele": "83",
+        "fee": "yes",
+        "fee:conditional": "no @ (age < 12); yes @ special exhibitions",
+        "gnis:county_name": "Los Angeles",
+        "gnis:feature_id": "1732713",
+        "gnis:reviewed": "no",
+        "height": "11.3",
+        "lacounty:ain": "5161012905",
+        "lacounty:bld_id": "2014092852570000",
+        "name": "The Geffen Contemporary",
+        "old_name": "The Museum of Contemporary Art",
+        "opening_hours": "Tu-Fr 11:00-17:00; Th 11:00-20:00; Sa,Su 11:00-18:00",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "website": "https://www.moca.org/visit/geffen-contemporary",
+        "wikidata": "Q118637994"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2382132,
+              34.0507589
+            ],
+            [
+              -118.2382221,
+              34.050761
+            ],
+            [
+              -118.2389019,
+              34.0508458
+            ],
+            [
+              -118.2389071,
+              34.0507475
+            ],
+            [
+              -118.2389081,
+              34.0507476
+            ],
+            [
+              -118.2389259,
+              34.0501577
+            ],
+            [
+              -118.2382371,
+              34.0500023
+            ],
+            [
+              -118.2382132,
+              34.0507589
+            ]
+          ]
+        ]
+      },
+      "id": "way/427817500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427817502",
+        "addr:housenumber": "120",
+        "addr:street": "Judge John Aiso St.",
+        "building": "yes",
+        "ele": "99.6",
+        "height": "16.4",
+        "lacounty:ain": "5161012909",
+        "lacounty:bld_id": "489015840889",
+        "name": "Union Center for the Arts",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2402302,
+              34.0507339
+            ],
+            [
+              -118.2398835,
+              34.0505275
+            ],
+            [
+              -118.2398535,
+              34.0505624
+            ],
+            [
+              -118.2398314,
+              34.0505493
+            ],
+            [
+              -118.2398075,
+              34.050579
+            ],
+            [
+              -118.2398288,
+              34.0505922
+            ],
+            [
+              -118.2397988,
+              34.0506272
+            ],
+            [
+              -118.2399406,
+              34.0507117
+            ],
+            [
+              -118.2399479,
+              34.0507032
+            ],
+            [
+              -118.2400963,
+              34.0507915
+            ],
+            [
+              -118.2400946,
+              34.0507934
+            ],
+            [
+              -118.2401508,
+              34.0508269
+            ],
+            [
+              -118.2401593,
+              34.050817
+            ],
+            [
+              -118.2401825,
+              34.0508308
+            ],
+            [
+              -118.2402448,
+              34.0507584
+            ],
+            [
+              -118.2402212,
+              34.0507444
+            ],
+            [
+              -118.2402302,
+              34.0507339
+            ]
+          ]
+        ]
+      },
+      "id": "way/427817502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428152638",
+        "addr:housenumber": "1401",
+        "addr:postcode": "90021",
+        "addr:street": "South Central Avenue",
+        "building": "yes",
+        "ele": "83.8",
+        "height": "12.1",
+        "lacounty:ain": "5132023901",
+        "lacounty:bld_id": "486713832837",
+        "name": "African American Firefighter Museum",
+        "operator": "African American Firefighter Museum",
+        "phone": "+1 (213) 744-1730",
+        "tourism": "museum",
+        "website": "http://www.aaffmuseum.org/",
+        "wikidata": "Q5451472",
+        "wikipedia": "en:Fire Station No. 30, Engine Company No. 30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2471169,
+              34.0284536
+            ],
+            [
+              -118.2473437,
+              34.028567
+            ],
+            [
+              -118.2474103,
+              34.0284744
+            ],
+            [
+              -118.2471826,
+              34.0283623
+            ],
+            [
+              -118.2471169,
+              34.0284536
+            ]
+          ]
+        ]
+      },
+      "id": "way/428152638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905248736",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "501",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "North Los Angeles Street",
+        "building": "yes",
+        "museum": "history",
+        "name": "Plaza Fire House",
+        "opening_hours": "Tu-Su 10:00-15:00",
+        "phone": "+1 213 485 8437",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2388662,
+              34.0560606
+            ],
+            [
+              -118.2389515,
+              34.0559295
+            ],
+            [
+              -118.2389611,
+              34.0559162
+            ],
+            [
+              -118.2388991,
+              34.0558852
+            ],
+            [
+              -118.2387802,
+              34.0560167
+            ],
+            [
+              -118.2388097,
+              34.0560316
+            ],
+            [
+              -118.2388009,
+              34.0560431
+            ],
+            [
+              -118.2388257,
+              34.0560553
+            ],
+            [
+              -118.2388339,
+              34.0560456
+            ],
+            [
+              -118.2388346,
+              34.0560447
+            ],
+            [
+              -118.2388662,
+              34.0560606
+            ]
+          ]
+        ]
+      },
+      "id": "way/905248736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905248737",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "10",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "Olvera Street",
+        "museum": "history",
+        "name": "Avila Adobe",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "phone": "+1 213 680 2525",
+        "tourism": "museum",
+        "wikidata": "Q4828838",
+        "wikipedia": "en:Avila_Adobe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.2379057,
+              34.0573903
+            ],
+            [
+              -118.2380539,
+              34.0572221
+            ],
+            [
+              -118.2379543,
+              34.0571514
+            ],
+            [
+              -118.2378936,
+              34.057108
+            ],
+            [
+              -118.2378729,
+              34.0571262
+            ],
+            [
+              -118.2377903,
+              34.0570649
+            ],
+            [
+              -118.2377449,
+              34.057104
+            ],
+            [
+              -118.2377141,
+              34.0570773
+            ],
+            [
+              -118.2375716,
+              34.0572018
+            ],
+            [
+              -118.2377221,
+              34.0572884
+            ],
+            [
+              -118.237803,
+              34.0573278
+            ],
+            [
+              -118.2379057,
+              34.0573903
+            ]
+          ]
+        ]
+      },
+      "id": "way/905248737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470897671",
+        "addr:housenumber": "800",
+        "addr:postcode": "90015",
+        "addr:state": "CA",
+        "addr:street": "West Olympic Boulevard",
+        "fee": "yes",
+        "name": "Grammy Museum",
+        "opening_hours": "Mo-Su 11:00-17:00; Tu off; Sa 10:00-18:00",
+        "tourism": "museum",
+        "website": "https://grammymuseum.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q7737452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2646054,
+          34.0446975
+        ]
+      },
+      "id": "node/470897671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/543989911",
+        "name": "The Latino Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2499101,
+          34.0469745
+        ]
+      },
+      "id": "node/543989911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/543990301",
+        "name": "FIDM Museum And Galleries",
+        "tourism": "museum",
+        "website": "https://fidmmuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.260267,
+          34.0439582
+        ]
+      },
+      "id": "node/543990301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2406454289",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "425",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "North Los Angeles Street",
+        "name": "Chinese American Museum",
+        "opening_hours": "Fr-Su 10:00-15:00",
+        "tourism": "museum",
+        "website": "https://camla.org",
+        "wikidata": "Q5100379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2392117,
+          34.0557136
+        ]
+      },
+      "id": "node/2406454289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253186546",
+        "fee": "no",
+        "name": "Gallery at REDCAT",
+        "opening_hours": "Tu-Su 12:00-18:00",
+        "source": "bing_imagery",
+        "tourism": "museum",
+        "website": "https://www.redcat.org/gallery/",
+        "wikidata": "Q7276303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250457,
+          34.0550448
+        ]
+      },
+      "id": "node/4253186546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4297597656",
+        "name": "LA Plaza De Culturas Y Artes",
+        "tourism": "museum",
+        "website": "https://lapca.org/",
+        "wikidata": "Q6457196",
+        "wikipedia": "en:LA Plaza de Cultura y Artes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239796,
+          34.0564211
+        ]
+      },
+      "id": "node/4297597656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837730309",
+        "name": "Tamal Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2630957,
+          34.0407317
+        ]
+      },
+      "id": "node/4837730309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482627115",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "711",
+        "addr:postcode": "90012",
+        "addr:state": "CA",
+        "addr:street": "New High Street",
+        "name": "Velveteria: The Museum of Velvet Art",
+        "tourism": "museum",
+        "website": "https://www.facebook.com/Velveteria/",
+        "wikidata": "Q16960028",
+        "wikipedia": "en:Velveteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238693,
+          34.0603908
+        ]
+      },
+      "id": "node/6482627115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406622413",
+        "name": "Italian American Museum of Los Angeles",
+        "tourism": "museum",
+        "website": "http://www.iamla.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237764,
+          34.0580596
+        ]
+      },
+      "id": "node/8406622413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406712222",
+        "name": "América Tropical Interpretative Center",
+        "tourism": "museum",
+        "website": "https://theamericatropical.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2382044,
+          34.0576397
+        ]
+      },
+      "id": "node/8406712222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406712243",
+        "name": "La Plaza United Methodist Church, Museum of Social Justice",
+        "tourism": "museum",
+        "website": "https://www.museumofsocialjustice.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2381692,
+          34.0569975
+        ]
+      },
+      "id": "node/8406712243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10138374546",
+        "fee": "yes",
+        "name": "Go For Broke National Education Center",
+        "tourism": "museum",
+        "website": "https://goforbroke.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2392433,
+          34.0494498
+        ]
+      },
+      "id": "node/10138374546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10929793705",
+        "name": "Art Share L.A.",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2342486,
+          34.0426486
+        ]
+      },
+      "id": "node/10929793705"
+    }
+  ]
+}
