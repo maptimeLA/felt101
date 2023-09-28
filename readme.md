@@ -2,6 +2,8 @@
 
 This tutorial guides how to build a map of destinations for CicLAvia and many events centered around bicyclists and pedestrians.
 
+Like this map for example: [CicLAvia Map of Destinations](https://felt.com/map/CicLAvia-Map-of-Destinations-Ro4h9AvPITXOWALC8gpjWyD?loc=34.049461,-118.247992,15.69z&share=1)
+
 
 ## Let's sign up for an account
 
